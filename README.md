@@ -1,6 +1,20 @@
-# 💫 About Me:
-👋 Hi, I'm Akshay Bajaj!<br>🎓 Pursuing B.Tech in Computer Science and Engineering (CSE) at Chitkara University, Punjab.<br>💻 Passionate about coding, problem-solving, and building innovative tech solutions.<br>🔍 Exploring areas like web development, data structures, and database management systems.<br>🌱 Constantly learning and growing to become a skilled software engineer.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Bajaj!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from India</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 👉🏻 I’m currently working on **Mern/Mean Stack Projects**
+ 
+ 👉🏻 I’m currently learning **Typescript, Prisma, Angular**
+
+💬 Ask me about **Node.js, React, Prisma or anything ralated to marketing**
+
+ </div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay__bajaj__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshay bajaj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bajajansh68) 
