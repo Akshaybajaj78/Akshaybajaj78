@@ -180,3 +180,15 @@ tools:
 ⭐ Always learning. Always building. Always improving.
 
 </div>
+---
+
+# 🛡️ TryHackMe Profile
+
+<p align="center">
+  <img src="./assets/tryhackme-profile.png" width="850"/>
+</p>
+
+<p align="center">
+  🔥 Completed 300+ rooms | 🏆 Top 1% Rank | 🎖️ 50+ Badges
+</p>
+
