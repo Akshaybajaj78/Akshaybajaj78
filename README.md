@@ -167,7 +167,7 @@ tools:
 
 <p align="center">
 
-<img src="https://github.com/Akshaybajaj78/Akshaybajaj78/snake.yaml"/>
+  <img src="https://github.com/Akshaybajaj78/Akshaybajaj78/blob/output/github-contribution-grid-snake.svg" />
 
 </p>
 
