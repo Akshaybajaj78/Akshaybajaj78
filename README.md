@@ -150,7 +150,6 @@ tools:
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshaybajaj78&show_icons=true&theme=merko&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaybajaj78&theme=merko&hide_border=true"/>
 
 </p>
 
@@ -173,7 +172,7 @@ tools:
 ⭐ Always learning. Always building. Always improving.
 
 </div>
----
+
 
 # 🛡️ TryHackMe Profile
 
