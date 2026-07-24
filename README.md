@@ -160,7 +160,7 @@ tools:
 
 <p align="center">
 
-  <img src="./snake.yml" />
+  <img src="./cont.png" />
 
 </p>
 
