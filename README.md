@@ -178,7 +178,7 @@ tools:
 # 🛡️ TryHackMe Profile
 
 <p align="center">
-  <img src="./assets/akshay.png" width="850"/>
+  <img src="./akshay.png" width="850"/>
 </p>
 
 <p align="center">
