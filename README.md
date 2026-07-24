@@ -144,20 +144,13 @@ tools:
 ```
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshaybajaj78&theme=merko&hide_border=false&include_all_commits=true&count_private=false"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshaybajaj78&show_icons=true&theme=merko&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaybajaj78&theme=merko&hide_border=false"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaybajaj78&theme=merko&hide_border=false&layout=compact"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaybajaj78&theme=merko&hide_border=true"/>
 
 </p>
 
