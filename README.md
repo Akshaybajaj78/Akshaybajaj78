@@ -160,7 +160,7 @@ tools:
 
 <p align="center">
 
-  <img src="https://github.com/Akshaybajaj78/Akshaybajaj78/blob/output/github-contribution-grid-snake.svg" />
+  <img src="./snake.yaml" />
 
 </p>
 
